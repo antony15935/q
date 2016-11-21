@@ -1,0 +1,72 @@
+body{
+
+   background-color :#666666;
+}
+
+#wrapper{
+        width:1000px;
+        margin:0 auto;
+        border-width:5px;
+        border-style:solid;
+        border-color:#000000;        
+        }
+
+#header{
+        background-color:#000000;    
+        }
+
+#content{
+        
+       
+        background-color:#FFFF77;    
+        }
+#con{
+        
+       
+        color:#FFFFFF;    
+        }
+#footer{
+        
+         height:20px;
+        background-color:#77FFEE;    
+        }
+
+
+#one{
+        
+       
+        background-color:yellow;    
+        }
+#two{
+        
+       
+        background-color:#FF7744;    
+        }
+#three{
+        
+       
+        background-color:#5555FF;    
+        }
+#four{
+        
+       
+        background-color:#66FF66;    
+        }
+
+#five{
+        
+       
+        background-color:yellow;    
+        }
+
+#six{
+        
+       
+        background-color:#FF7744;    
+        }
+
+#seven{
+        
+       
+        background-color:#D1BBFF;    
+        }
